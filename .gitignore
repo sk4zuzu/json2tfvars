@@ -1,1 +1,8 @@
 *.swp
+*.swo
+*.pyc
+*.pyo
+*.egg
+build/
+dist/
+json2tfvars.egg-info/
